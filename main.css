@@ -3,3 +3,13 @@
     align-items: center;
     justify-content: center;
 }
+
+.image-small {
+    height: 100px;
+    width: 100px;
+}
+
+.image-div {
+    height: 100px;
+    width: 100px;
+}
